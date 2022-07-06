@@ -79,6 +79,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Pointless](https://github.com/kkoomen/pointless) - Endless drawing canvas
 - [AppCenter Companion](https://github.com/zenoxs/tauri-appcenter-companion) - Regroup, build and track your `VS App Center` apps.
 - [Compotes](https://github.com/Orbitale/Compotes) - Local bank account operations storage to vizualize them as graphs and customize them with rules and tags for better filtering.
+- [SpaceDrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ### Closed Source
 
